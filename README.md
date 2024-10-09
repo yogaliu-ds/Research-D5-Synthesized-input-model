@@ -1,4 +1,4 @@
-Research Title: Stock Index Movement Prediction with dynamic Contextual Embedding using Adjusted BERT-LSTM
+Research Title: Stock Market Index Movement Prediction using Partial Contextual Embedding BERT-LSTM
 
 Comparison of 4 parts:
 1. Benchmark 1:        (X) fintuning BERT, (X) section, publication architecture  (Extra) use BERT sentiment
